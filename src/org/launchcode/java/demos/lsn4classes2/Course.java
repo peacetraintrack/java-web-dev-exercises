@@ -1,11 +1,9 @@
 package org.launchcode.java.demos.lsn4classes2;
 
-import java.util.ArrayList;
-
 public class Course {
     private String topic;
     private Teacher instructor;
-    private ArrayList<Student> enrolledStudents;
+//    private ArrayList<Student> enrolledStudents;
 
     // TODO: Add your custom 'toString' method here. Make sure it returns a well-formatted String rather than
     //  just the class fields.
